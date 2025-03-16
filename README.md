@@ -51,4 +51,4 @@ Ensure that the screenshots are uploaded to the `screenshots/` folder before sub
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone <YOUR_GITHUB_REPO_URL>
+   git clone https://github.com/mojazi42/Week3Day1ClassTask/tree/main
